@@ -1,0 +1,2 @@
+docker pull tarcisiofcarvalho/tomcat01 
+docker run -it -d -p 8080:8080 tarcisiofcarvalho/tomcat01 
